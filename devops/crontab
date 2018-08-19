@@ -1,0 +1,9 @@
+crontab -e---------------------to edit the crontab file
+set the job and run the below cmds
+*mts0-59)      *hrs(0-23)      *day of the month(1-31)       *month(1-12)        *day of the wk(0-7-sunday)
+crontab -l---------------------cron job lists
+
+
+
+for every 2 hrs means 00 */2
+    every day         *
